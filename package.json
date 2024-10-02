@@ -1,0 +1,22 @@
+{
+  "name": "tp2_apirest_martingelvan",
+  "version": "1.0.0",
+  "description": "Trabajo Practico Nº2 de TP2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "Martin Gelvan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
